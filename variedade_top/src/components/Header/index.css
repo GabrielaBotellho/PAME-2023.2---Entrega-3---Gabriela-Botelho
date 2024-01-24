@@ -1,0 +1,29 @@
+.Header{
+    
+    gap: 2px
+
+}
+
+.titulo{
+    width: 40vw;
+    height: 10vh;
+    font-size: 40px;
+    
+  }
+  
+  .caixaBuscar{
+    width: 70vw;
+    height: 5vh;
+    
+  }
+
+  .cadastro{
+    width: 10vw;
+    height: 5vh;
+    background-color: transparent;
+    border-style: initial ;
+    font-size: 20px;
+    cursor: pointer;
+
+
+  }

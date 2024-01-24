@@ -1,0 +1,68 @@
+.Categorias{
+    display: flex;
+    gap: 15px ;
+    height: 20 vh;
+    width: 20 vw;
+
+}
+
+.casa{
+    background-color: transparent;
+    border-style: initial;
+    font-size: 25px;
+    width: 20vw;
+    height: 20vh;
+    cursor: pointer;
+
+}
+
+.roupas{
+    background-color: transparent;
+    border-style: initial;
+    font-size: 25px;
+    width: 20vw;
+    height: 20vh;
+    cursor: pointer;
+
+}
+
+.eletronicos{
+    background-color: transparent;
+    border-style: initial;
+    font-size: 25px;
+    width: 20vw;
+    height: 20vh;
+    cursor: pointer;
+
+}
+
+.games{
+    background-color: transparent;
+    border-style: initial;
+    font-size: 25px;
+    width: 20vw;
+    height: 20vh;
+    cursor: pointer;
+
+}
+
+.automotivo{
+    background-color: transparent;
+    border-style: initial;
+    font-size: 25px;
+    width: 20vw;
+    height: 20vh;
+    cursor: pointer;
+
+}
+
+.esportes{
+    background-color: transparent;
+    border-style: initial;
+    font-size: 25px;
+    width: 20vw;
+    height: 20vh;
+    cursor: pointer;
+
+
+}
