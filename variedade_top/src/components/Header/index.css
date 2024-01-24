@@ -1,25 +1,32 @@
 .Header{
     
-    gap: 2px
+    
+    background-color:dodgerblue;
+    height: 10vh;
 
 }
 
 .titulo{
     width: 40vw;
     height: 10vh;
-    font-size: 40px;
+    font-size: 30px;
+    font-family: copperplate ;
+    text-decoration: underline;
+    font-weight: 10px;
+    
     
   }
-  
+
   .caixaBuscar{
     width: 70vw;
     height: 5vh;
-    
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   .cadastro{
     width: 10vw;
-    height: 5vh;
+    height: 4vh;
     background-color: transparent;
     border-style: initial ;
     font-size: 20px;

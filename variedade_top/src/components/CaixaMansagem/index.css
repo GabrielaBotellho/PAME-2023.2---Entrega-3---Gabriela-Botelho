@@ -1,0 +1,7 @@
+.CaixaMensagem{
+    font-size: 50px;
+    background-color:dodgerblue ;
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

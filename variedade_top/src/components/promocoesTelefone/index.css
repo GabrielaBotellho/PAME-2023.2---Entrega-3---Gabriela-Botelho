@@ -1,0 +1,176 @@
+
+
+
+.PromocoesTelefone{
+    font-size: 30px;
+    width: screen;
+    height: 90vh;
+    background-color: whitesmoke;
+    display: flex;
+    gap: 90px ;
+    overflow-x:auto;
+    
+
+}
+
+.nomeRedmi12{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.tamanhoRedmi12{
+    font-size: 30px;
+}
+
+.precoRedmi12{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.RedmiNote12{
+    width: 500px;
+    height: 85vh;
+    padding: 20px;
+    background-color: white;
+    justify-content: center;
+    display: inline-block;
+    align-items: center;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#RedmiNote12{
+    width: 33vw;
+    height: 60vh;
+}
+
+
+.nomeRedmi9{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.tamanhoRedmi9{
+    font-size: 30px;
+}
+
+.precoRedmi9{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.RedmiNote9{
+    width: 500px;
+    height:85vh;
+    padding: 20px;
+    background-color: white;
+    justify-content: center;
+    display: inline-block;
+    align-items: center;
+    margin-right: 10px;
+    
+}
+
+#RedmiNote9{
+    width: 500px;
+    height: 60vh;
+}
+
+.nomeGalaxyA14{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.tamanhoGalaxyA14{
+    font-size: 30px;
+}
+
+.precoGalaxyA14{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.GalaxyA14{
+    width: 500px;
+    height: 85vh;
+    padding: 20px;
+    background-color: white;
+    justify-content: center;
+    display: inline-block;
+    align-items: center;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#GalaxyA14{
+    width: 500px;
+    height: 55vh;
+}
+
+.nomeGalaxyA3{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.tamanhoGalaxyA3{
+    font-size: 30px;
+}
+
+.precoGalaxyA3{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.GalaxyA3{
+    width: 500px;
+    height: 85vh;
+    padding: 20px;
+    background-color: white;
+    justify-content: center;
+    display: inline-block;
+    align-items: center;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#GalaxyA3{
+    width: 500px;
+    height: 60vh;
+}
+
+
+.nomeIphone13{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.tamanhoIphone13{
+    font-size: 30px;
+}
+
+.precoIphone13{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Iphone13{
+    width: 500px;
+    height: 85vh;
+    padding: 20px;
+    background-color: white;
+    justify-content: center;
+    display: inline-block;
+    align-items: center;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#Iphone13{
+    width: 500px;
+    height: 60vh;
+}

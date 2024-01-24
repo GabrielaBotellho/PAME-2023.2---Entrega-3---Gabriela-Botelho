@@ -1,0 +1,112 @@
+
+.PromocoesTupperware{
+    font-size: 30px;
+    width: screen;
+    height: 65vh;
+    background-color: whitesmoke;
+    display: flex;
+    overflow-x: auto;
+
+    
+    
+
+}
+
+.nomeRoxo{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.tamanhoRoxo{
+    font-size: 30px;
+}
+
+.precoRoxo{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.poteRoxo{
+    width: 500px;
+    height:60vh;
+    padding: 20px;
+    background-color: white;
+    justify-content: center;
+    display: inline-block;
+    align-items: center;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#imgPoteRoxo{
+    width: 500px;
+    height: 38vh;
+}
+
+.nomeRosa{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.tamanhoRosa{
+    font-size: 30px;
+}
+
+.precoRosa{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.poteRosa{
+    width: 500px;
+    height:60vh;
+    padding: 20px;
+    background-color: white;
+    justify-content: center;
+    display: inline-block;
+    align-items: center;
+    margin-right: 10px;
+    
+}
+
+#imgPoteRosa{
+    width: 500px;
+    height: 38vh;
+}
+    
+.nomeAzul{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.tamanhoAzul{
+    font-size: 30px;
+}
+
+.precoAzul{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.poteAzul{
+    width: 500px;
+    height:60vh;
+    padding: 20px;
+    background-color: white;
+    justify-content: center;
+    display: inline-block;
+    align-items: center;
+    margin-right: 10px;
+}
+
+#imgPoteAzul{
+    width: 500px;
+    height: 38vh;
+}
+
+
+
+
